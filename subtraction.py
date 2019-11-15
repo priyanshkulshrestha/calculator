@@ -1,4 +1,4 @@
-def subtraction()
+def sub()
    a=input("enter a no.")
    b=input("enter another no.")
    c=a-b
