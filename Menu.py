@@ -2,10 +2,10 @@ choice = input("Enter 1 for addition, 2 for subtraction, 3 for multiplication, a
 a = input("enter the first number:")
 b = input("enter the second number:")
 if choice == "1":
-	import Addition as a1
+	import addition as a1
 	a1.add(a, b)
 if choice == "2":
-	import Subtraction as s1
+	import subtraction as s1
 	s1.sub(a, b)
 if choice == "3":
 	import multiplication_fucntion as m1
