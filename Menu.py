@@ -11,5 +11,5 @@ if choice == "3":
 	import multiply as m1
 	m1.mul(a, b)
 if choice == "4":
-	import division as d1
+	import div as d1
 	d1.div(a, b)
