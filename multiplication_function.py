@@ -1,5 +1,4 @@
-def mul():
-	a = int(input('enter the number'))
-	b = int(input('enter the number'))
+def mul(a,b):
+	
 	c = a * b
-	return c
+	print(c)

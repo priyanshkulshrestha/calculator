@@ -1,5 +1,3 @@
-def mod():
-  a = int(input())
-  b = int(input())
+def mod(a,b):
   c = a%b
-  return c
+  print(c)

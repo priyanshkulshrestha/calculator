@@ -1,5 +1,3 @@
-def sub()
-   a=input("enter a no.")
-   b=input("enter another no.")
+def sub(a,b):
    c=a-b
-   return(c)
+   print(c)

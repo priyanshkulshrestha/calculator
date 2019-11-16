@@ -1,7 +1,5 @@
-def add():
-    a=int(input("enter any no"))
-    b=int(input("enter any no"))
+def add(a,b):
     c=a+b
-    return c
+    print(c)
 
 ##  done 
