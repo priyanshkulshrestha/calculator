@@ -8,7 +8,7 @@ if choice == "2":
 	import subtraction as s1
 	s1.sub(a, b)
 if choice == "3":
-	import multiplication_fucntion as m1
+	import multiplication_function as m1
 	m1.mul(a, b)
 if choice == "4":
 	import Division as d1
