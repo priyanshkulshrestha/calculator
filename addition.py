@@ -1,5 +1,4 @@
 def add(a,b):
-    c=a+b
-    print(c)
+    print(a+b)
 
 ##  done 
